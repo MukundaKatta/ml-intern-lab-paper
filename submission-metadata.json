@@ -1,0 +1,23 @@
+{
+  "title": "ML Intern Lab: A Minimal Agentic Workflow for Reproducible Machine Learning Experiment Reports",
+  "author": "Mukunda Rao Katta",
+  "orcid": "https://orcid.org/0009-0007-6071-3896",
+  "resource_type": "software method note",
+  "primary_platform": "Zenodo",
+  "license": "CC BY 4.0",
+  "related_repositories": [
+    "https://gitlab.com/mukunda.vjcs6-group/ml-intern-lab",
+    "https://pypi.org/project/ml-intern-lab/"
+  ],
+  "keywords": [
+    "agentic machine learning",
+    "ML experiment reporting",
+    "reproducibility",
+    "MLOps",
+    "AI agents",
+    "baseline experiments",
+    "model reports",
+    "workflow artifacts"
+  ]
+}
+
